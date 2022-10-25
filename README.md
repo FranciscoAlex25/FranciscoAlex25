@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, my name is Alex and I'm a computer 
+### technician and a programming enthusiast. 👋 
 
 <!--
 **FranciscoAlex25/FranciscoAlex25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
